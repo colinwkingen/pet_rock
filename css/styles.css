@@ -2,12 +2,18 @@
 
 .endcap {
   background-color: #ABC8D1;
-
-
 }
-
 header {
   font-size: 2em;
+  color: #2F5096;
+}
+nav {
+  background-color: #eee;
+}
+nav a,nav a:visited {
+  border-style: solid;
+  border-color: eee;
+  color: #2F5096;
 }
 
 nav a {
@@ -16,4 +22,16 @@ nav a {
   font-family: 'Open Sans', sans-serif;
   border-right: 1px solid;
   padding-right: 5px;
+}
+p {
+  background-color: #eee;
+}
+
+body {
+  text-align: center;
+}
+
+ul, ol {
+
+  list-style: none;
 }
