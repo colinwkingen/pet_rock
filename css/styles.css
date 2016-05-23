@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,900|Oswald);
+
 .endcap {
   background-color: #ABC8D1;
 
@@ -5,5 +7,13 @@
 }
 
 header {
-  font-size: 2em;  
+  font-size: 2em;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1.5em;
+  font-family: 'Open Sans', sans-serif;
+  border-right: 1px solid;
+  padding-right: 5px;
 }
