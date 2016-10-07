@@ -1,23 +1,21 @@
-# This is a website about pet rocks.
-## Pet rock are cool and you should like them.
+## Epicodus Exercise
 
-## Created by Colin Kingen and Cory Olson
 
-## Created with:
-### _Atom Text Editor_
-### _HTML_
-### _CSS_
+### Created by Colin Kingen and Cory Olson
 
-## Purpose
-### Show people that pet rocks are rad.
+### Technology Used:
+* _Atom Text Editor_
+* _HTML_
+* _CSS_
 
-## How to use
-### Open in your internet browser.
+### Purpose
 
-## Bugs
-## None. Our site is perfect.
+Practice using CSS and HTML effectively.
 
-## Contact
-### Comment on our Github project.
+### How to use
+* Clone repository
+* Open index.html in your web browser.
 
-#### Copyright Colin Kingen and Cory Olson, 2016.
+#### Contact
+#### Comment on github
+
